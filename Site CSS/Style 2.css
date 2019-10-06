@@ -1,0 +1,95 @@
+html{ 
+	font-size: 120%;
+	background-color: #504444;
+	}
+
+body {
+	margin: 0px;
+	padding: 0px;
+	}
+		
+#entete, #menu, #contenu, #footer{ 
+	padding: 1px 0; }
+	
+	
+#entete {
+	background-color: #2A2020;
+	text-align: center;
+	height: 4.5em
+	}
+	
+#main {
+	margin: 5px;
+	position: 
+	}
+
+#menu  {
+	float:left;
+	width:200px;
+	background-color: #FFFFFF;
+	position: ;
+	outline: solid black 0.1px ;
+	}
+
+#menu li {
+	margin: 0em 0;
+	padding: 0.9em;
+	border-top: ;
+	border-bottom: ;
+	border-left: ;
+	border-right: ;
+	font-family: Calibri, sans-serif;
+	font-size: 85% }
+
+#menu li:hover {
+	background: #E6E6FA }
+
+#contenu {
+	padding-left: 1.5em;
+	font-size: 130%;
+	margin-left:245px;
+	background-color:#E6E6FA#E6E6FA#E6E6FA;
+	border-top: solid #734646 10px ;
+	border-bottom: solid #734646 10px ;
+	border-left: solid #734646 10px ;
+	border-right: solid #734646 10px ;
+	border-radius: 2rem;
+	max-width: 42em;
+	min-height: 15em
+	}
+
+#footer {
+	background-color:#2A2020;
+	text-align:center;
+	clear:both;
+	position:absolute;
+	bottom:0;
+	width: 100%;
+	height: 50px
+	}
+
+h1 {
+	font-family: Arial, SunSans-Regular, sans-serif;
+	font-size: 100%;
+	text-align: center;
+	font-weight: bold;
+	text-decoration: underline;
+	text-transform: uppercase ;
+	color: #E6E6E6
+	}
+	
+h2 {
+	color: white
+	}
+	
+#image {
+	float:left;
+	margin-right: 30px;
+	margin-left:
+	}
+		
+#description {
+	color: #FFFFFF;
+	max-width: 40em;
+	text-align: justify
+	}
